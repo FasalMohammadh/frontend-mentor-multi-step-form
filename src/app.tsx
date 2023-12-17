@@ -1,9 +1,9 @@
-import Home from "@/pages/home";
+import Register from "@/pages/register";
 
 function App() {
   return (
     <main class="font-ubuntu">
-      <Home />
+      <Register />
     </main>
   );
 }
